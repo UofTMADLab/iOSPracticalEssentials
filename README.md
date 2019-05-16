@@ -4,6 +4,8 @@ Finished Sample Map App for the iOS Practical Essentials Workshop
 To create the cloud back-end, remix the following Glitch project:
 [glitch.com/~grey-stamp](https://glitch.com/~grey-stamp)
 
+[You can also find the server project files here](https://github.com/UofTMADLab/iOSPracticals-Server)
+
 This project was initially created in Xcode 10.1.
 
 For more help contact mad.lab@utoronto.ca
